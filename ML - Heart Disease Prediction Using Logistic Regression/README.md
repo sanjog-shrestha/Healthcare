@@ -80,11 +80,11 @@ Running the script prints the missing-value counts, the CHD rate, the train/test
 
 **Risk factors by ten-year CHD outcome**
 
-![Risk factors by outcome](features_by_outcome.png)
+![Risk factors by outcome](image.png)
 
 **Confusion matrix (balanced model)**
 
-![Confusion matrix](confusion_matrix.png)
+![Confusion matrix](image-1.png)
 
 **Test-set comparison**
 
